@@ -9,7 +9,7 @@ Original from WiC64.de, modified:
 
  - TOP (Oberseite):
  - - flipped, cropped push buttons
- - - gredreht, kann direkt gedruckt werden
+ - - gedreht, kann direkt gedruckt werden
  - - kürze Tastenstößel für das ESP32-Modul
  
  <p align="center">
