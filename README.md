@@ -13,7 +13,7 @@ Original from WiC64.de, modified:
  - - kürze Tastenstößel für das ESP32-Modul
  
  <p align="center">
-  <img src="images/WiC64-t.png">
+  <img src="images/WiC64t.png">
 </p>
  
  - BOTTOM (Unterseite)
@@ -21,7 +21,7 @@ Original from WiC64.de, modified:
  - - ohne Lüftungsschlitze, kann schneller und einfacher gedruckt werden
  
   <p align="center">
-  <img src="images/WiC64-b.png">
+  <img src="images/WiC64b.png">
 </p>
  
  
